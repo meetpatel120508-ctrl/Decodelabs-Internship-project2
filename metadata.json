@@ -1,0 +1,6 @@
+{
+  "name": "AI Data Classifier",
+  "description": "An interactive supervised learning training kit focusing on the KNN algorithm, feature scaling, train-test splitting, and performance diagnostics using the Iris benchmark dataset.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
